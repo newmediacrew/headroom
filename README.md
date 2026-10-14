@@ -2,6 +2,8 @@
 
 **A status line for Claude Code.** See how much of your usage limits you've used, and when they reset, at a glance.
 
+![Headroom status line in a terminal](assets/screenshot.png)
+
 ```
 [Opus 5.5] session: 5% (resets 05:30) · week: 7% (resets Wed)
 ```
